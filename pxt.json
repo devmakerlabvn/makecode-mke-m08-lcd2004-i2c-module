@@ -1,5 +1,6 @@
 {
-    "name": "[MakeCode] MKE-S02 LDR Light Sensor",
+    "name": "[MakeCode] MKE-M08 LCD2004 I2C Module",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
